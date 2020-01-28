@@ -1,0 +1,42 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Java\jdk1.8.0_45\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.8
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+I:\Vikram\vikram's 10th project\doc
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit.jar;I:\Vikram\vikram's 10th project
+I:\Vikram\vikram's 10th project\library_management.java
+<---- end of javadoc command ---->
+Loading source file I:\Vikram\vikram's 10th project\library_management.java...
+I:\Vikram\vikram's 10th project\library_management.java:86: error: unclosed string literal
+            System.out.println("
+                               ^
+I:\Vikram\vikram's 10th project\library_management.java:86: error: ';' expected
+            System.out.println("
+                                ^
+I:\Vikram\vikram's 10th project\library_management.java:91: error: illegal start of expression
+  void bookregister_ISBN()
+  ^
+I:\Vikram\vikram's 10th project\library_management.java:91: error: ';' expected
+  void bookregister_ISBN()
+                        ^
+I:\Vikram\vikram's 10th project\library_management.java:143: error: illegal start of expression
+     void bookregister_remaining()
+     ^
+I:\Vikram\vikram's 10th project\library_management.java:143: error: ';' expected
+     void bookregister_remaining()
+                                ^
+I:\Vikram\vikram's 10th project\library_management.java:188: error: reached end of file while parsing
+    }
+     ^
+7 errors
